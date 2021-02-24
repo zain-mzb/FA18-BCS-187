@@ -17,6 +17,9 @@
   width: 550px;
   display: inline-block;
 }
+.one b{
+  font-size: 21px;
+}
 
 p {
   font-size: 17px;
