@@ -3,15 +3,18 @@
   margin: 0px;
 }
 
-
+body {
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
 .outer {
   width: 700px;
   height: 800px;
   margin: 0px auto;
   border: 5px double black;
   padding: 5%;
-  padding-bottom: 25%;
-  padding-top:2%;
+  padding-bottom: 40%;
+  padding-top: 2%;
 }
 .one h1 {
   margin-top: 5%;
@@ -22,7 +25,7 @@
   width: 550px;
   display: inline-block;
 }
-.one b{
+.one b {
   font-size: 21px;
 }
 
@@ -38,7 +41,8 @@ p {
   font-size: 18px;
 }
 
-li,ul {
+li,
+ul {
   font-size: 17px;
   margin-left: 25px;
 }
